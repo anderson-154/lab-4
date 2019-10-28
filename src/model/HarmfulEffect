@@ -1,0 +1,9 @@
+package model;
+public interface HarmfulEffect
+{
+	boolean Harful(int decompositionTime, double fact)
+	{
+		
+	}
+
+}
